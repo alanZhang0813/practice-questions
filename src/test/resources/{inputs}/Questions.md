@@ -1,0 +1,8 @@
+- [[What is the chemical symbol of hydrogen? ::: H]]
+- [[What is the chemical symbol of calcium? ::: Ca]]
+- [[What is 1 + 1? ::: 2]]
+- [[T/F: Object Oriented Design is the best class ::: T]]
+- [[What is the legal drinking age? ::: 21]]
+- [[How much wood could a woodchuck chuck if a wood chuck could chuck wood? ::: What]]
+- [[Which is better, TPAB or 1989? ::: TPAB]]
+- [[What does the U symbol in probability represent? ::: Union]]
